@@ -31,7 +31,7 @@ subtitle: Isaac Chen's DSGN297 Final Project
 
 ## Source Code
 
-```python
+{% highlight python %}
 import time
 import board
 import adafruit_hcsr04
@@ -78,3 +78,4 @@ while True:
         print("Retrying...")
 
     time.sleep(0.05)
+{% endhighlight %}
