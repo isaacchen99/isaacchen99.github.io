@@ -1,8 +1,17 @@
 ---
-title: Isaac Chen - Scary Spider
+title: Scary Spider
+subtitle: Isaac Chen's DSGN297 Final Project
 ---
 
-<h1 align="center">Isaac Chen's DSGN297 Final Project: Scary Spider</h1>
+<h1 align="center">🕷️ Scary Spider</h1>
+<h3 align="center">Isaac Chen's DSGN297 Final Project</h3>
+
+---
+
+<p align="center">
+  <img src="assets/IMG_1247.JPG" alt="Scary Spider Project" width="600"><br>
+  <em>Figure: The Scary Spider prototype</em>
+</p>
 
 ---
 
